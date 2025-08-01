@@ -29,7 +29,7 @@ public class Main {
                 }
             }
 
-        System.out.println("Задача 3");
+        System.out.println("Задача 3!");
 
     }
 }
