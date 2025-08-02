@@ -53,7 +53,7 @@ public class Main {
             System.out.println("Свыше 100 км доставки нет");
         }
 
-        System.out.println("Задача 5");
+        System.out.println("Задача 5!");
         int monthNumber = 1;
         if (monthNumber < 1 || monthNumber > 12) {
             System.out.println("Ошибка: номер месяца должен быть от 1 до 12");
